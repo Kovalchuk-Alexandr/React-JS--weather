@@ -1,0 +1,11 @@
+/* Отдельный файл для App.js */
+h1 {
+  font-size: 90px;
+  margin: 20px;
+  color: brown;
+}
+
+img {
+  margin-left: 20px;
+  margin-top: 20px;
+}
